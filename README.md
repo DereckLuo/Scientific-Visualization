@@ -1,3 +1,3 @@
 # Scientific-Visualization
 
-Scientific Visualization Workshop
+Scientific Visualization work shop
